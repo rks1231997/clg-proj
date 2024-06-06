@@ -27,3 +27,5 @@ cursor.execute()
 mydb.commit()
 
 print(cursor.fetchall()) 
+
+#this is finished
